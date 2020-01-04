@@ -30,3 +30,6 @@
 #   sub_category: nil
 # }
 
+def naming_system
+  
+end 
