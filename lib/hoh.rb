@@ -39,11 +39,11 @@ def naming_system
        sub_category: {
          label: "Order",
          sub_category: {
-           label: "Family".
+           label: "Family",
            sub_category: {
              label: "Genus",
              sub_category: {
-                label: "Species".
+                label: "Species",
                 sub_category {
                   sub_category: nil }}}}}}}}}
 end 
