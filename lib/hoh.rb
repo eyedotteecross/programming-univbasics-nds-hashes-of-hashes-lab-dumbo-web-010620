@@ -42,13 +42,14 @@ def naming_system
          sub_category: {
            label: "Family"
            sub_category: {
-             
-            }
+             label: "Genus"
+             sub_category: {
+               
+            } 
           }
-       } 
-     }
-   }
- 
-    
+        }
+      } 
+    }
+  }
 }
 end 
